@@ -1,6 +1,5 @@
 import telebot
 
-# Replace 'YOUR_BOT_API_TOKEN' with the token you got from BotFather
 bot = telebot.TeleBot("7556909227:AAGBffoAVMnnwRm34VLAN68IWqhhpFO1TTQ")
 
 # Respond to the /start or /help commands
